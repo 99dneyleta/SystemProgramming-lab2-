@@ -1,0 +1,35 @@
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\bin\Debug\Editor(lab2).exe
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\bin\Debug\Editor(lab2).pdb
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\bin\Debug\Editor(lab2).xml
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\obj\x86\Debug\Editor_lab2_.Resources.resources
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\obj\x86\Debug\Editor(lab2).vbproj.GenerateResource.Cache
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\obj\x86\Debug\Editor(lab2).exe
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\obj\x86\Debug\Editor(lab2).xml
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\obj\x86\Debug\Editor(lab2).pdb
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\obj\x86\Debug\Editor_lab2_.EditorForm.resources
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\obj\x86\Debug\Editor_lab2_.DialogForm.resources
+C:\Users\progr\AppData\Local\Temporary Projects\Editor(lab2)\obj\x86\Debug\Editor_lab2_.Form1.resources
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).exe
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).xml
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).pdb
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\bin\Debug\Editor(lab2).exe
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\bin\Debug\Editor(lab2).pdb
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\bin\Debug\Editor(lab2).xml
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).vbprojResolveAssemblyReference.cache
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor_lab2_.DialogForm.resources
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor_lab2_.EditorForm.resources
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor_lab2_.Form1.resources
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor_lab2_.Resources.resources
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).vbproj.GenerateResource.Cache
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).exe
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).xml
+C:\Users\romanchubak\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).pdb
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\bin\Debug\Editor(lab2).exe
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\bin\Debug\Editor(lab2).pdb
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\bin\Debug\Editor(lab2).xml
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).vbprojResolveAssemblyReference.cache
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor_lab2_.DialogForm.resources
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor_lab2_.EditorForm.resources
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor_lab2_.Form1.resources
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor_lab2_.Resources.resources
+C:\Users\progr\Desktop\Editor(lab2)\Editor(lab2)\obj\x86\Debug\Editor(lab2).vbproj.GenerateResource.Cache
